@@ -1,7 +1,7 @@
 
-import Home from "../page";
+// import Home from "../page";
 
-import Header from "@/app/components/header";
+// import Header from "@/app/components/header";
 
 
 
