@@ -376,12 +376,6 @@ form {
 
 /* responsive */
 
-@media only screen and (max-width:1536px) {
-  .footer{
-    /* flex-direction: row; */
-  }
-}
-
 @media screen and (max-width: 991px) {
 .footer {
   height: 60vh;
@@ -415,12 +409,6 @@ form {
 @media screen and (max-width: 767px) {
  
 /* blog card */
-
-body {
-  /* overflow: hidden; */
-}
-
-/* blog-card */
 
 .blog-card {
 
@@ -525,12 +513,7 @@ form {
 .form-group input, .form-group textarea {
   padding: 8px;
 }
-
-
-
-
 }
-
 
 @media only screen and (max-width:479px){
 
@@ -637,9 +620,10 @@ form {
   }
 
    .footer{
-    height: 100vh;
+    height:auto;
     justify-content: space-evenly;
     flex-direction: row;
+    overflow: initial;
   }
 
   .footer-logo {

@@ -8,9 +8,9 @@ import Header from "@/app/components/header";
 
 
 import Image from 'next/image';
-import image1 from '@/app/assets/asset 7.webp';
-import image2 from '@/app/assets/asset 8.webp';
-import image3 from '@/app/assets/asset 10.webp';
+import image1 from '@/app/assets/asset-7.webp';
+import image2 from '@/app/assets/asset-8.webp';
+import image3 from '@/app/assets/asset-10.webp';
 import image4 from '@/app/assets/assets 101.webp';
 import image5 from '@/app/assets/assest 102.webp';
 import image6 from '@/app/assets/assets 103.webp';

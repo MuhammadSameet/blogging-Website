@@ -1,6 +1,6 @@
 import Image from "next/image"
 
-import image2 from '@/app/assets/asset 8.webp';
+import image2 from '@/app/assets/asset-8.webp';
 
 
 export default function blog2(){
